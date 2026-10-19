@@ -1,4 +1,4 @@
-# Chromecast Remote 📺⌨️
+# Chromecast Remote 
 
 A lightweight terminal-based remote control for **Chromecast with Google TV / Android TV**, using **ADB over Wi-Fi**.
 
